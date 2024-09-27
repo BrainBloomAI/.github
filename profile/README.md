@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/4cc7a88c-40af-4756-8581-91a9b281085b" alt="Group photo with school lecturers and director" height="220px">
 
 **We are proud to share that BrainBloomAI by NYP clinched 3rd Place ($3000 prize) in the prestigious Dell InnovateFest 2024 competition.
-The app was showcased before Minister of Health Mr Ong Ye Kung and Senior Parliamentary Secretary of MCCY on 26th September 2024. 🎉🎉🎉**
+The app was showcased before Minister of Health Mr Ong Ye Kung and Mr Eric Chua, Senior Parliamentary Secretary of MCCY on 26th September 2024. 🎉🎉🎉**
 
 BrainBloomAI is an innovative solution targeted to Persons with Intellectual Disabilities (PWIDs), especially those who are clients of [MINDS Singapore](https://www.minds.org.sg/).
 The app trains clients' social interaction skills through AI-generated interactions ("games") based in specific settings/backgrounds.
