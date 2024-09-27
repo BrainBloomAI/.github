@@ -2,6 +2,12 @@
 
 # BrainBloomAI - Dell InnovateFest 2024
 
+<img src="https://github.com/user-attachments/assets/c887d3a8-08a4-458b-b81b-90abc40f8d0c" alt="3rd Prize Award Photo at Dell Competition" height="220px">
+
+<img src="https://github.com/user-attachments/assets/4d0fb213-c1d0-48f2-a3ce-9f50c549b9b9" alt="Group photo with Minister of Health Mr Ong Ye Kung" height="220px">
+
+<img src="https://github.com/user-attachments/assets/4cc7a88c-40af-4756-8581-91a9b281085b" alt="Group photo with school lecturers and director" height="220px">
+
 **We are proud to share that BrainBloomAI by NYP clinched 3rd Place ($3000 prize) in the prestigious Dell InnovateFest 2024 competition.
 The app was showcased before Minister of Health Mr Ong Ye Kung and Senior Parliamentary Secretary of MCCY on 26th September 2024. 🎉🎉🎉**
 
@@ -10,6 +16,14 @@ The app trains clients' social interaction skills through AI-generated interacti
 
 For example, a client can tap on "Retail Customer Service" and play an entirely new on-the-spot AI-generated interaction, role-playing as an employee working at the store who is serving a customer that just walked in.
 The AI will play the role of the customer, and will give prompts like "Hi, I'm looking for sneakers. Can you help me?"
+
+Our BrainBloomAI team consists of (in no order):
+- [Sarah Zoe Sung](https://github.com/sarahzsu)
+- [Chong Cheng Hock](https://github.com/ballgoesvroomvroom)
+- [Prakhar Trivedi](https://github.com/Prakhar896)
+- [Jun Song](https://github.com/TEOJS12)
+
+Huge thanks to our mentors Mr Alvin Tay, Ms Teo Miow Ting and the support of the school as well!
 
 ## Core Features
 
@@ -49,6 +63,8 @@ From a more technical perspective, we incorporated several state-of-the-art tech
  
 The three core services were containerised into Docker images, uploaded to the Harbor image registry, and deployed to production on RedHat's OpenShift cloud for the competition.
 
-## Competition
+---
+
+Thanks for checking out BrainBloomAI, and we hope you are inspired to look toward a more inclusive future as well! ✨
 
 ©️ 2024 BrainBloomAI Team. All rights reserved.
