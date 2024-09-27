@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a839e60b-5537-488f-ac16-c18beca6dcf4" alt="Landscape BrainBloomAI Poster" height="300px">
+<img src="https://github.com/user-attachments/assets/a839e60b-5537-488f-ac16-c18beca6dcf4" alt="Landscape BrainBloomAI Poster" width="350px">
 
 # BrainBloomAI - Dell InnovateFest 2024
 
